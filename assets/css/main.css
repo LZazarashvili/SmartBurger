@@ -454,7 +454,7 @@ table {
  @media only screen 
    and (min-width: 320px)
    and (max-width: 480px) {
-     .space-image {
+     .team {
          background: red;
      }   
  }
