@@ -14,7 +14,7 @@
   font-weight: bold;
 }
 
-.about-us .row .who-are-we span.underline {
+.about-us .row .who-are-we .underline {
   padding-bottom: 10px;
   border-bottom: 3px solid #3D3C38;
 }
