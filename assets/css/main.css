@@ -455,6 +455,6 @@ table {
    and (min-width: 480px)
    and (max-width: 540px) {
      .team {
-         background: red;
+         background-color: red;
      }   
  }
