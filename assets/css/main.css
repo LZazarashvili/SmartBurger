@@ -1,0 +1,15 @@
+@import "reset.css";
+@import "bootstrap.min.css";
+@import url(https://fonts.googleapis.com/css?family=Coustard);
+@import "../fonts/gotham.css";
+
+@import "header.css";
+@import "space.css";
+@import "about.css";
+@import "services.css";
+@import "work.css";
+@import "quote.css";
+@import "team.css";
+@import "contact.css";
+
+@import "media.css";
